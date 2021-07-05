@@ -1,1 +1,1 @@
-Readind data from gmail and storing it in a mysql database.
+Reading data from gmail using google API and storing it in a mysql database.
